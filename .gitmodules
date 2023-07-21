@@ -1,0 +1,3 @@
+[submodule "OfferUp-backend"]
+	path = OfferUp-backend
+	url = https://github.com/VinayakSingh2001/OfferUp-backend.git
